@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.vidyamantra.cmoodleapp159" version="3.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.leaphealth.cmoodleapp159" version="3.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Leap mHealth</name>
     <description>The mHealth platform that trains health care workers wherever they are, whenever you need it.</description>
     <author email="sales@vidyamantra.com" href="http://moodleapp.keytoschool.com">Vidya Mantra EduSystems Pvt. Ltd.</author>
