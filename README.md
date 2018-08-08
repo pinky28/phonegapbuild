@@ -1,1 +1,0 @@
-# moodlemobilebuild_phonegap
