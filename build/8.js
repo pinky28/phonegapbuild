@@ -1,6 +1,6 @@
 webpackJsonp([8],{
 
-/***/ 1782:
+/***/ 1781:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -132,7 +132,7 @@ var components_module = __webpack_require__(29);
 var directives_module = __webpack_require__(28);
 
 // EXTERNAL MODULE: ./src/addon/messages/components/components.module.ts
-var components_components_module = __webpack_require__(1892);
+var components_components_module = __webpack_require__(1891);
 
 // CONCATENATED MODULE: ./src/addon/messages/pages/index/index.module.ts
 // (C) Copyright 2015 Martin Dougiamas
@@ -348,7 +348,7 @@ var loading_ngfactory = __webpack_require__(54);
 var loading = __webpack_require__(50);
 
 // EXTERNAL MODULE: ./src/addon/messages/components/discussions/discussions.ts
-var discussions = __webpack_require__(1893);
+var discussions = __webpack_require__(1892);
 
 // EXTERNAL MODULE: ./node_modules/ionic-angular/navigation/nav-params.js
 var nav_params = __webpack_require__(59);
@@ -448,7 +448,7 @@ var AddonMessagesDiscussionsComponentNgFactory = core["_27" /* ɵccf */]("addon-
 
 //# sourceMappingURL=discussions.ngfactory.js.map
 // EXTERNAL MODULE: ./src/addon/messages/components/contacts/contacts.ts
-var contacts = __webpack_require__(1894);
+var contacts = __webpack_require__(1893);
 
 // CONCATENATED MODULE: ./src/addon/messages/components/contacts/contacts.ngfactory.js
 /**
@@ -700,7 +700,7 @@ var AddonMessagesIndexPageModuleNgFactory = core["_28" /* ɵcmf */](index_module
 
 /***/ }),
 
-/***/ 1892:
+/***/ 1891:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -712,8 +712,8 @@ var AddonMessagesIndexPageModuleNgFactory = core["_28" /* ɵcmf */](index_module
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_components_module__ = __webpack_require__(29);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__directives_directives_module__ = __webpack_require__(28);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__pipes_pipes_module__ = __webpack_require__(100);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_discussions_discussions__ = __webpack_require__(1893);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_contacts_contacts__ = __webpack_require__(1894);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_discussions_discussions__ = __webpack_require__(1892);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_contacts_contacts__ = __webpack_require__(1893);
 // (C) Copyright 2015 Martin Dougiamas
 //
 // Licensed under the Apache License, Version 2.0 (the "License");
@@ -773,7 +773,7 @@ var AddonMessagesComponentsModule = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1893:
+/***/ 1892:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1032,7 +1032,7 @@ var AddonMessagesDiscussionsComponent = /** @class */ (function () {
 
 /***/ }),
 
-/***/ 1894:
+/***/ 1893:
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
